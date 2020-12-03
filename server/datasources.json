@@ -1,0 +1,13 @@
+{
+  "mongo1": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "mongodb+srv://admin:admin@cluster0-zwsqi.gcp.mongodb.net/test?retryWrites=true&w=majority",
+    "database": "calzzapato",
+    "password": "admin",
+    "name": "mongodb",
+    "user": "admin",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
